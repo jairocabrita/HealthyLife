@@ -1,0 +1,13 @@
+{
+    "diagnosticos":
+    [
+        {
+            "diag1": "IMC inferior al normal.",
+            "diag2":"IMC dentro de los estándares normales.",
+            "diag3":"Sobrepeso.",
+            "diag4":"Obesidad tipo I.",
+            "diag5":"Obesidad tipo II.",
+            "diag6":"Obesidad tipo III."
+        }
+    ]
+}
